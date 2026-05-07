@@ -5,3 +5,34 @@
 }
 
 /* write all your rules below */
+h1 {
+    border: solid, red, 2vh;
+   background-color: pink;
+   margin: 4vw;
+   width:70%
+}
+
+.cyan-box {
+    background-color: rgb(162, 245, 245);
+    padding: 20vh;
+}
+
+.yellow-box {
+    background-color: yellow;
+    border: 2vh, solid pink;
+    margin: 5vh;
+    width: 50vw;
+    height: 20vh;
+}
+
+.blue-text {
+    color: blue
+}
+
+.green-text {
+    color: green;
+}
+
+.purpol-text {
+    color: purple;
+}
